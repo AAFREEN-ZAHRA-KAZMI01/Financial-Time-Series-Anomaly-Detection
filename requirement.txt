@@ -1,7 +1,7 @@
-streamlit
-pandas
 numpy
 matplotlib
+streamlit
+pandas
 ta
 scikit-learn
 prophet
